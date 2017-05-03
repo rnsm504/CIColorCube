@@ -193,7 +193,6 @@
 				TargetAttributes = {
 					F21C42A41EB8EE05003DEAFE = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = D2R737286R;
 						ProvisioningStyle = Automatic;
 					};
 					F21C42B81EB8EE05003DEAFE = {
@@ -415,7 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = D2R737286R;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CIColorCubeSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rnsm504.CIColorCubeSample;
@@ -428,7 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = D2R737286R;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CIColorCubeSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rnsm504.CIColorCubeSample;
